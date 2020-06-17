@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>write</operation>
+        <source_scope display_value="Needit Spoke">adc39a7fdb551010d2d5e9c948961999</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 09:36:05</sys_created_on>
+        <sys_id>b4c07a80dbe11010d2d5e9c9489619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit_task</sys_name>
+        <sys_package display_value="Needit Spoke" source="x_478671_needit_sp">adc39a7fdb551010d2d5e9c948961999</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit Spoke">adc39a7fdb551010d2d5e9c948961999</sys_scope>
+        <sys_update_name>sys_scope_privilege_b4c07a80dbe11010d2d5e9c9489619ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 09:36:05</sys_updated_on>
+        <target_name>x_58872_needit_needit_task</target_name>
+        <target_scope/>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="property_name" label="property_name" language="en" table="var__m_sys_hub_step_ext_input_0f41e27fdb951010d2d5e9c9489619a1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>property_name</element>
+            <help/>
+            <hint/>
+            <label>property_name</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_input_0f41e27fdb951010d2d5e9c9489619a1</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-16 13:50:01</sys_created_on>
+            <sys_id>cf41e27fdb951010d2d5e9c9489619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>property_name</sys_name>
+            <sys_package display_value="Needit Spoke" source="x_478671_needit_sp">adc39a7fdb551010d2d5e9c948961999</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Needit Spoke">adc39a7fdb551010d2d5e9c948961999</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_input_0f41e27fdb951010d2d5e9c9489619a1_property_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-16 13:50:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
